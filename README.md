@@ -1,2 +1,2 @@
-# Capstone-3
+# Walmart Sales Prediction
  
